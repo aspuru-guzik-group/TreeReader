@@ -1,5 +1,7 @@
 # TreeReader: A Hierarchical Academic Paper Reader Powered by Language Models
 
+![](TreeReader.jpg)
+
 ## Access TreeReader
 
 Just replace "arxiv" by "trxiv" in any arXiv link! Example: https://arxiv.org/pdf/2506.05536 -> https://trxiv.org/pdf/2506.05536
